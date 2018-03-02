@@ -30,9 +30,9 @@ To setting this project please open <a href="https://git-scm.com/downloads" targ
 
 Final:<br>
 Show welcome page, please open link: <b><a href="http://localhost:8000" target="_blank">http://localhost:8000</a></b> <br/>
-<img src="/public/images/images/welcome.png" alt="Welcome" style="max-width:100%;"><br/>
+<img src="/public/images/welcome.png" alt="Welcome" style="max-width:100%;"><br/>
 Show admin page, please open link: <b><a href="http://localhost:8000/admin" target="_blank">http://localhost:8000/admin</a></b><br/>
-<img src="/public/images/images/admin.png" alt="Admin" style="max-width:100%;">
+<img src="/public/images/admin.png" alt="Admin" style="max-width:100%;">
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
