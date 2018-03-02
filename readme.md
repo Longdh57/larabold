@@ -32,7 +32,8 @@ Final:<br>
 Show welcome page, please open link: <b><a href="http://localhost:8000" target="_blank">http://localhost:8000</a></b> <br/>
 <img src="/public/images/welcome.png" alt="Welcome" style="max-width:100%;"><br/>
 Show admin page, please open link: <b><a href="http://localhost:8000/admin" target="_blank">http://localhost:8000/admin</a></b><br/>
-<img src="/public/images/admin.png" alt="Admin" style="max-width:100%;">
+<img src="/public/images/admin.png" alt="Admin" style="max-width:100%;"><br/>
+See demo at <b><a href="https://larabold-demo.herokuapp.com/" target="_blank">https://larabold-demo.herokuapp.com/</a></b>
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
